@@ -3,11 +3,11 @@
   "id": "duperpatcher",
   "version": "${version}",
   "name": "DuperPatcher",
-  "description": "",
-  "authors": [],
+  "description": "Patches dragon egg duplication exploits using Mixins",
+  "authors": ["TechnicFox"],
   "contact": {},
   "license": "All-Rights-Reserved",
-  "environment": "server",
+  "environment": "*",
   "entrypoints": {
     "main": [
       "org.meeno.duperpatcher.Duperpatcher"
